@@ -1,4 +1,5 @@
 VaadinSessionManagement
 =======================
 
-Experimental mechanisms for web application session persistence and management
+Experimental mechanisms for web application session persistence and management using the Vaadin framework.
+
