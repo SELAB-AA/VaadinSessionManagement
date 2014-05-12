@@ -1,0 +1,6 @@
+com.example.sessionpersistenceproject
+com.example.sessionpersistenceproject.client
+com.example.sessionpersistenceproject.shared
+com.vaadin.server
+com.vaadin.server.communication
+com.vaadin.server.sessionstorage

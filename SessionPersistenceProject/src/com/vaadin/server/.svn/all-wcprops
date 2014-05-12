@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/src/com/vaadin/server
+END
+VaadinSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/src/com/vaadin/server/VaadinSession.java
+END
+PersistenceStorageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/src/com/vaadin/server/PersistenceStorageService.java
+END
+HTML5LocalStorageSessionStorageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/src/com/vaadin/server/HTML5LocalStorageSessionStorageManager.java
+END
+PersistenceStorageServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/src/com/vaadin/server/PersistenceStorageServlet.java
+END

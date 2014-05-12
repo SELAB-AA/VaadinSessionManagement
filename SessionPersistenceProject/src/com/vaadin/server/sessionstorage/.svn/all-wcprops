@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/src/com/vaadin/server/sessionstorage
+END
+AmazonS3SessionStorageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/src/com/vaadin/server/sessionstorage/AmazonS3SessionStorageManager.java
+END
+SessionStorageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/src/com/vaadin/server/sessionstorage/SessionStorageManager.java
+END

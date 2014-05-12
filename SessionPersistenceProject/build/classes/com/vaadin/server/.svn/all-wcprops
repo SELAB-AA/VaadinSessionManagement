@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/build/classes/com/vaadin/server
+END
+HTML5LocalStorageSessionStorageManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/build/classes/com/vaadin/server/HTML5LocalStorageSessionStorageManager.class
+END
+HTML5LocalStorageSessionStorageManager$MyClientStorageSupportListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/build/classes/com/vaadin/server/HTML5LocalStorageSessionStorageManager$MyClientStorageSupportListener.class
+END
+PersistenceStorageServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/build/classes/com/vaadin/server/PersistenceStorageServlet.class
+END
+VaadinSession.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/build/classes/com/vaadin/server/VaadinSession.class
+END
+VaadinSession$FutureAccess.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/build/classes/com/vaadin/server/VaadinSession$FutureAccess.class
+END
+PersistenceStorageService.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/selab/services/!svn/ver/52/SessionPersistenceProject/SessionPersistenceProject/build/classes/com/vaadin/server/PersistenceStorageService.class
+END
